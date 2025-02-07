@@ -128,7 +128,7 @@ import {
       iconBg: "#383E56",
       date: "March 2022 - April 2024",
       points: [
-        "Designing and maintaining web applications using React.js and other related technologies.",
+        "Designing and maintaining web posts using Adobe Photoshop and Adobe InDesign and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
       ],
